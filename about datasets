@@ -1,0 +1,20 @@
+Le fichier contient 9 921 tweets étiquetés avec des inquiétudes concernant les vaccins.
+Il y a 3 colonnes dans le fichier :
+
+ID du tweet au format chaîne, suivi d'un "t" (pour faciliter le travail sur les tableurs).
+Le texte du tweet
+Les différentes étiquettes (préoccupations vaccinales) exprimées dans le tweet, séparées par des espaces.
+Liste des 12 problèmes de vaccins différents dans l’ensemble de données :
+
+[inutile] : Le tweet indique que les vaccins ne sont pas nécessaires ou que d’autres remèdes sont meilleurs.
+[obligatoire] : Contre la vaccination obligatoire — Le tweet suggère que les vaccins ne devraient pas être rendus obligatoires.
+[pharma] : Contre les grandes sociétés pharmaceutiques — Le tweet indique que les grandes sociétés pharmaceutiques essaient simplement de gagner de l'argent, ou le tweet est contre ces sociétés en général en raison de leur histoire.
+[conspiration] : Conspiration plus profonde — Le tweet suggère une conspiration plus profonde, et pas seulement que les grandes sociétés pharmaceutiques veulent gagner de l'argent (par exemple, les vaccins sont utilisés pour suivre les gens, le COVID est un canular)
+[politique] : Côté politique des vaccins – Le tweet exprime des inquiétudes quant au fait que les gouvernements/hommes politiques font avancer leur propre programme à travers les vaccins.
+[pays] : Pays d'origine — Le tweet est contre certains vaccins en raison du pays où il a été développé/fabriqué
+[précipité] : Processus non testé/précipité — Le tweet exprime des inquiétudes quant au fait que les vaccins n'ont pas été testés correctement ou que les données publiées ne sont pas exactes.
+[ingrédients] : Ingrédients/technologie des vaccins — Le tweet exprime des inquiétudes concernant les ingrédients présents dans les vaccins (par exemple, cellules fœtales, produits chimiques) ou la technologie utilisée (par exemple, les vaccins à ARNm peuvent modifier votre ADN)
+[effet secondaire] : Effets secondaires/Décès — Le tweet exprime des inquiétudes concernant les effets secondaires des vaccins, y compris les décès provoqués.
+[inefficace] : Le vaccin est inefficace — Le tweet exprime des inquiétudes quant au fait que les vaccins ne sont pas assez efficaces et inutiles.
+[religieux] : Raisons religieuses — Le tweet est contre les vaccins pour des raisons religieuses
+[aucun] : Aucune raison spécifique indiquée dans le tweet, ou une raison autre que celles indiquées.
